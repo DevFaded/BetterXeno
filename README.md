@@ -70,7 +70,7 @@ This will remove **HttpGet** from game!
 You can use the modified version of dex made for Xeno inside the released files
 
 ### Preview
-<p>The Current UNC is <span style="color: green;">~75%</span></p>
+<p>The Current UNC is <span style="color: green;">~80%</span></p>
 <img src="v1.0.45-UNC.png" alt="Preview" width="600" style="box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5), -10px -10px 20px rgba(255, 255, 255, 0.3);" />
 
 ## Dependencies
